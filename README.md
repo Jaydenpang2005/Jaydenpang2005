@@ -1,7 +1,8 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaydenpang2005&theme=high-contrast)
 
 <div align="center">
-   < img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jaydenpang2005&theme=dark" /> < img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydenpang2005&theme=dark&layout=compact" />
+   < img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jaydenpang2005&theme=dark" /> 
+   < img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydenpang2005&theme=dark&layout=compact" />
 </div>
 <div align="center">
 
